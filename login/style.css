@@ -1,0 +1,23 @@
+.bg-custom {
+    background-color: rgba(134, 170, 249, 0.5);
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+}
+
+.form-control {
+    background-color: transparent;
+    border: 0.5px solid;
+
+}
+
+.form-check-input {
+    background-color: transparent;
+    border: 0.5px solid;
+}
+
+.mt-custom {
+    margin-top: 50%;
+}
