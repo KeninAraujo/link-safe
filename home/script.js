@@ -31,11 +31,7 @@ $(document).ready(function () {
     switchTheme(initialTheme);
 
 
-    $(".url .btn[type=submit").on("click", function (event) {
-
-        window.location.href = '/scan/inedx.html';
-    });
-
 
 });
+
 
