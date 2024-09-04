@@ -64,4 +64,4 @@ Distribuído sob a Licença MIT. Veja o arquivo LICENSE para mais informações.
 
 Contato
 Seu Nome - kenindr02@gmail.com
-Projeto Link Verifier - [GitHub Repository](https://github.com/KeninAraujo)
+[GitHub Repository](https://github.com/KeninAraujo)
