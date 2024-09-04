@@ -1,7 +1,6 @@
 $(document).ready(function () {
   let inputValue = localStorage.getItem("inputValue");
-  const apiKey =
-    "9edfbfe83e77c3d1c2482c36c4e6357353696c9669b802b44949ce696e0c06c1";
+  const apiKey = "SUA_CHAVE_API_VIRUS_TOTAK";
 
   if (inputValue) {
     let settings = {
