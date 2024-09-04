@@ -1,0 +1,35 @@
+.bg-body-tertiary {
+    background-color: rgba(30, 58, 138, 1) !important;
+}
+
+nav i {
+    color: #ffffff;
+}
+
+.custom-icon-size {
+    font-size: 100px;
+    color: rgba(31, 45, 71, 0.8);
+}
+
+.border-bottom {
+    border-bottom: 1px solid rgba(31, 45, 71, 0.8);
+    /* width: 60%; */
+}
+
+.terms {
+    padding: 10px;
+    background-color: rgba(134, 170, 249, 0.5);
+    max-width: 600px;
+    max-height: 65px;
+    margin-top: 80px;
+}
+
+.fs {
+    font-size: 12px
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+
+}
